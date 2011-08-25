@@ -5,3 +5,5 @@ Sublime Plugin
 Create a symlink from the for the each settings file linking to the settings directory. 
 
 /Users/Richard/Library/Application Support/Sublime Text 2/Packages/User/
+
+Ensure that you have installed the Meslo font from the fonts folder 
