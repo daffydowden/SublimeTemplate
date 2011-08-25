@@ -1,0 +1,3 @@
+[submodule "snippets/Ryan-on-Rails"]
+	path = snippets/Ryan-on-Rails
+	url = git@github.com:WhatWeDo/ryan-on-rails.sublime-text.git
