@@ -4,3 +4,9 @@
 [submodule "themes/Soda"]
 	path = themes/Soda
 	url = git@github.com:buymeasoda/soda-theme.git
+[submodule "packages/CodeIntel"]
+	path = packages/CodeIntel
+	url = ssh://git@github.com/Kronuz/SublimeCodeIntel.git
+[submodule "languages/coffee"]
+	path = languages/coffee
+	url = ssh://git@github.com/jashkenas/coffee-script-tmbundle.git
